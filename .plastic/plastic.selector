@@ -1,0 +1,4 @@
+repository "GamerBedroom/GamerBedroom@18968049511035@cloud"
+  path "/"
+    br "/main"
+    co "/main"
