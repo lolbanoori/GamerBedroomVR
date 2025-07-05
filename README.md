@@ -68,6 +68,18 @@ All 3D objects are manually positioned, textured, and organized to match the int
 
 ---
 
+## 🧭 Navigation
+
+Three teleport anchors enable smooth room-scale locomotion using the XR controller ray:
+
+- **DoorAnchor** – Teleports the player to the room entrance.
+- **UnderloftAnchor** – Moves the player to the gaming/TV zone under the loft bed.
+- **CenterAnchor** – Centers the player in the middle of the room for a full 360° view.
+
+> **Note:** Anchors are represented as black circular markers on the carpet. Point at them using the controller ray to teleport.
+
+---
+
 ## 💻 Hardware Requirements
 
 | Component          | Requirement                              |
