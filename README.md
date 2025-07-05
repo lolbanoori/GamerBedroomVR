@@ -47,7 +47,7 @@ All 3D objects are manually positioned, textured, and organized to match the int
 - Great for peer reviews and setups without an HMD.
 
 📺 **Watch setup guide**:  
-[Mock HMD Tutorial](https://www.youtube.com/watch?v=MytUA33WhFI&t=51s)
+[Mock HMD Tutorial](https://www.youtube.com/watch?v=MytUA33WhFI)
 
 ---
 
