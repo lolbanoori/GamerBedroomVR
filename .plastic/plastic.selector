@@ -1,4 +1,4 @@
-repository "GamerBedroom/GamerBedroom@18968049511035@cloud"
+repository "GamerBedroomVR-Beta 2025-07-16_02-03-02/GamerBedroomVR-Beta@18968049511035@cloud"
   path "/"
     br "/main"
     co "/main"
